@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+
+# App data
+deepguard.db
+instance/
+temp_video_*.mp4
+
+# Dataset (download from Kaggle, do not commit images)
+real_vs_fake/
+dataset/
